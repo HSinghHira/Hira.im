@@ -33,4 +33,4 @@ for (let i = 0; i < 30; i++) {
 
 setTimeout(() => {
   window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
-}, 5000);
+}, 10000);
